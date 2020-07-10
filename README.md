@@ -1,1 +1,6 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+## Welcome to WeRove
+
+WeRove is the final project we build for LeWagon bootcamp along with Nicolas Donoso Castex, Analida Corro, and Xenia Boulatnakis.
+
+It consists on a social media platform for travellers, mobile-first (it's actually available as a PWA).
+
