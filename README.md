@@ -15,6 +15,8 @@ After being matched, you can talk directly with the Local using the built-in cha
 
 You can also just look for recommendations in a specific location without being matched with anyone (we use the same algorithm for this, it's user-based and not recommendation-based).
 
+You can watch a live demo here: https://www.youtube.com/watch?v=3SsOzX34TPc&feature=youtu.be&t=1622
+
 ## Tech specs
 
 The chat is built using Action Cable.
